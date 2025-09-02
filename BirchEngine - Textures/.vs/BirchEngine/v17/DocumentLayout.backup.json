@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\Dev2\\BirchEngine - Textures\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE353F93-BF7C-4368-BE55-A8C0FAF6E793}|BirchEngine\\BirchEngine.vcxproj|C:\\Users\\DELL\\Desktop\\Dev2\\BirchEngine - Textures\\BirchEngine\\Src\\StaticObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE353F93-BF7C-4368-BE55-A8C0FAF6E793}|BirchEngine\\BirchEngine.vcxproj|solutionrelative:BirchEngine\\Src\\StaticObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE353F93-BF7C-4368-BE55-A8C0FAF6E793}|BirchEngine\\BirchEngine.vcxproj|C:\\Users\\DELL\\Desktop\\Dev2\\BirchEngine - Textures\\BirchEngine\\Src\\GameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE353F93-BF7C-4368-BE55-A8C0FAF6E793}|BirchEngine\\BirchEngine.vcxproj|solutionrelative:BirchEngine\\Src\\GameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE353F93-BF7C-4368-BE55-A8C0FAF6E793}|BirchEngine\\BirchEngine.vcxproj|C:\\Users\\DELL\\Desktop\\Dev2\\BirchEngine - Textures\\BirchEngine\\Src\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE353F93-BF7C-4368-BE55-A8C0FAF6E793}|BirchEngine\\BirchEngine.vcxproj|solutionrelative:BirchEngine\\Src\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE353F93-BF7C-4368-BE55-A8C0FAF6E793}|BirchEngine\\BirchEngine.vcxproj|C:\\Users\\DELL\\Desktop\\Dev2\\BirchEngine - Textures\\BirchEngine\\Src\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE353F93-BF7C-4368-BE55-A8C0FAF6E793}|BirchEngine\\BirchEngine.vcxproj|solutionrelative:BirchEngine\\Src\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE353F93-BF7C-4368-BE55-A8C0FAF6E793}|BirchEngine\\BirchEngine.vcxproj|C:\\Users\\DELL\\Desktop\\Dev2\\BirchEngine - Textures\\BirchEngine\\Src\\levelElements.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE353F93-BF7C-4368-BE55-A8C0FAF6E793}|BirchEngine\\BirchEngine.vcxproj|solutionrelative:BirchEngine\\Src\\levelElements.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE353F93-BF7C-4368-BE55-A8C0FAF6E793}|BirchEngine\\BirchEngine.vcxproj|C:\\Users\\DELL\\Desktop\\Dev2\\BirchEngine - Textures\\BirchEngine\\Src\\levelElements.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE353F93-BF7C-4368-BE55-A8C0FAF6E793}|BirchEngine\\BirchEngine.vcxproj|solutionrelative:BirchEngine\\Src\\levelElements.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE353F93-BF7C-4368-BE55-A8C0FAF6E793}|BirchEngine\\BirchEngine.vcxproj|C:\\Users\\DELL\\Desktop\\Dev2\\BirchEngine - Textures\\BirchEngine\\Src\\StaticObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE353F93-BF7C-4368-BE55-A8C0FAF6E793}|BirchEngine\\BirchEngine.vcxproj|solutionrelative:BirchEngine\\Src\\StaticObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE353F93-BF7C-4368-BE55-A8C0FAF6E793}|BirchEngine\\BirchEngine.vcxproj|C:\\Users\\DELL\\Desktop\\Dev2\\BirchEngine - Textures\\BirchEngine\\Src\\Platform.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE353F93-BF7C-4368-BE55-A8C0FAF6E793}|BirchEngine\\BirchEngine.vcxproj|solutionrelative:BirchEngine\\Src\\Platform.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE353F93-BF7C-4368-BE55-A8C0FAF6E793}|BirchEngine\\BirchEngine.vcxproj|C:\\Users\\DELL\\Desktop\\Dev2\\BirchEngine - Textures\\BirchEngine\\Src\\Platform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE353F93-BF7C-4368-BE55-A8C0FAF6E793}|BirchEngine\\BirchEngine.vcxproj|solutionrelative:BirchEngine\\Src\\Platform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE353F93-BF7C-4368-BE55-A8C0FAF6E793}|BirchEngine\\BirchEngine.vcxproj|C:\\Users\\DELL\\Desktop\\Dev2\\BirchEngine - Textures\\BirchEngine\\Src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE353F93-BF7C-4368-BE55-A8C0FAF6E793}|BirchEngine\\BirchEngine.vcxproj|solutionrelative:BirchEngine\\Src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE353F93-BF7C-4368-BE55-A8C0FAF6E793}|BirchEngine\\BirchEngine.vcxproj|C:\\Users\\DELL\\Desktop\\Dev2\\BirchEngine - Textures\\BirchEngine\\Src\\GameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE353F93-BF7C-4368-BE55-A8C0FAF6E793}|BirchEngine\\BirchEngine.vcxproj|solutionrelative:BirchEngine\\Src\\GameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StaticObject.cpp",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Dev2\\BirchEngine - Textures\\BirchEngine\\Src\\StaticObject.cpp",
+              "RelativeDocumentMoniker": "BirchEngine\\Src\\StaticObject.cpp",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Dev2\\BirchEngine - Textures\\BirchEngine\\Src\\StaticObject.cpp",
+              "RelativeToolTip": "BirchEngine\\Src\\StaticObject.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-30T11:02:41.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StaticObject.h",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Dev2\\BirchEngine - Textures\\BirchEngine\\Src\\StaticObject.h",
+              "RelativeDocumentMoniker": "BirchEngine\\Src\\StaticObject.h",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Dev2\\BirchEngine - Textures\\BirchEngine\\Src\\StaticObject.h",
+              "RelativeToolTip": "BirchEngine\\Src\\StaticObject.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-30T11:02:41.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Platform.h",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Dev2\\BirchEngine - Textures\\BirchEngine\\Src\\Platform.h",
+              "RelativeDocumentMoniker": "BirchEngine\\Src\\Platform.h",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Dev2\\BirchEngine - Textures\\BirchEngine\\Src\\Platform.h",
+              "RelativeToolTip": "BirchEngine\\Src\\Platform.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-02T08:45:29.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Platform.cpp",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Dev2\\BirchEngine - Textures\\BirchEngine\\Src\\Platform.cpp",
+              "RelativeDocumentMoniker": "BirchEngine\\Src\\Platform.cpp",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Dev2\\BirchEngine - Textures\\BirchEngine\\Src\\Platform.cpp",
+              "RelativeToolTip": "BirchEngine\\Src\\Platform.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-02T08:45:28.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Dev2\\BirchEngine - Textures\\BirchEngine\\Src\\main.cpp",
+              "RelativeDocumentMoniker": "BirchEngine\\Src\\main.cpp",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Dev2\\BirchEngine - Textures\\BirchEngine\\Src\\main.cpp",
+              "RelativeToolTip": "BirchEngine\\Src\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-02T08:45:17.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "levelElements.cpp",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Dev2\\BirchEngine - Textures\\BirchEngine\\Src\\levelElements.cpp",
+              "RelativeDocumentMoniker": "BirchEngine\\Src\\levelElements.cpp",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Dev2\\BirchEngine - Textures\\BirchEngine\\Src\\levelElements.cpp",
+              "RelativeToolTip": "BirchEngine\\Src\\levelElements.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-17T11:16:44.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "levelElements.h",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Dev2\\BirchEngine - Textures\\BirchEngine\\Src\\levelElements.h",
+              "RelativeDocumentMoniker": "BirchEngine\\Src\\levelElements.h",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Dev2\\BirchEngine - Textures\\BirchEngine\\Src\\levelElements.h",
+              "RelativeToolTip": "BirchEngine\\Src\\levelElements.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-17T11:15:43.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameObject.h",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Dev2\\BirchEngine - Textures\\BirchEngine\\Src\\GameObject.h",
+              "RelativeDocumentMoniker": "BirchEngine\\Src\\GameObject.h",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Dev2\\BirchEngine - Textures\\BirchEngine\\Src\\GameObject.h",
+              "RelativeToolTip": "BirchEngine\\Src\\GameObject.h",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAAAEsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-16T06:42:19.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameObject.cpp",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Dev2\\BirchEngine - Textures\\BirchEngine\\Src\\GameObject.cpp",
+              "RelativeDocumentMoniker": "BirchEngine\\Src\\GameObject.cpp",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Dev2\\BirchEngine - Textures\\BirchEngine\\Src\\GameObject.cpp",
+              "RelativeToolTip": "BirchEngine\\Src\\GameObject.cpp",
+              "ViewState": "AgIAAFsCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-02T08:45:10.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Dev2\\BirchEngine - Textures\\BirchEngine\\Src\\Game.h",
+              "RelativeDocumentMoniker": "BirchEngine\\Src\\Game.h",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Dev2\\BirchEngine - Textures\\BirchEngine\\Src\\Game.h",
+              "RelativeToolTip": "BirchEngine\\Src\\Game.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-02T08:44:52.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Dev2\\BirchEngine - Textures\\BirchEngine\\Src\\Game.cpp",
+              "RelativeDocumentMoniker": "BirchEngine\\Src\\Game.cpp",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Dev2\\BirchEngine - Textures\\BirchEngine\\Src\\Game.cpp",
+              "RelativeToolTip": "BirchEngine\\Src\\Game.cpp",
+              "ViewState": "AgIAABcBAAAAAAAAAAAAAPUAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-02T08:44:51.727Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

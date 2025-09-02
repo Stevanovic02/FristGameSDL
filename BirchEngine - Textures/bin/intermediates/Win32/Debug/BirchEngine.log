@@ -1,0 +1,5 @@
+﻿  Game.cpp
+C:\Users\DELL\Desktop\Dev2\BirchEngine - Textures\BirchEngine\Src\GameObject.h(85,34): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+  (compiling source file 'Src/Game.cpp')
+  
+  BirchEngine.vcxproj -> C:\Users\DELL\Desktop\Dev2\BirchEngine - Textures\bin\Win32\Debug\BirchEngine.exe
